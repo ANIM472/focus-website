@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.orange-color{
+    color: orange;
+}
+p{
+    color: dimgray;
+}
+.button-makeup{
+    text-decoration: none;
+    background-color: Tomato;
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.focus-area{
+    display: flex;
+    margin-bottom: 150px;
+}
+.first-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.first-width img{
+    width: 70%;
+}
+#stay-focus{
+    border-left: 5px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+.mission{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.second-width{
+    width: 30%;
+    margin-left: 3%;
+}
+.second-width img{
+    width: 50%;
+    padding-left: 5%;
+}
+.mission-side{
+    background-color:rgba(127, 255, 212, 0.151) ;
+    padding: 15px;
+    border-radius: 30px;
+}
+.vission-side{
+    background-color: rgba(255, 192, 203, 0.212) ;
+    padding: 10px;
+    border-radius: 30px;
+}
+.goals-side{
+    background-color: rgba(240, 230, 140, 0.212) ;
+    padding: 10px;
+    border-radius: 30px;
+}
+.focus-bg{
+    background-image: url(images/shapes/resize3.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.focus-bg2{
+  background-image: url(images/shapes/resize3.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.extra-item{
+    margin-bottom: 70px;
+    padding-left: 3%;
+}
+.web-dev img{
+    margin-left: 25%;
+    width: 50%;
+}
+.last-sentence{
+    text-align: center;
+}
+.tomato-color{
+    color: tomato;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 110px;
+}
+.footer-text{
+    color: white;
+}
